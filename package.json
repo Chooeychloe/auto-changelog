@@ -1,0 +1,11 @@
+{
+  "name": "auto-changelog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Chooeychloe/auto-changelog.git",
+  "author": "Dhan <edan.belgica@cvsu.edu.ph>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
