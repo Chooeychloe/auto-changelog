@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/Chooeychloe/auto-changelog/compare/v1.4.1...v1.5.0) (2024-12-06)
+
+
+### Features
+
+* add another dashboard function ([9da12f4](https://github.com/Chooeychloe/auto-changelog/commit/9da12f42fa3cd381fd7cfb5d644d0d72d0c0e2ee))
+
 ### [1.4.1](https://github.com/Chooeychloe/auto-changelog/compare/v1.4.0...v1.4.1) (2024-12-06)
 
 
