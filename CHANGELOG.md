@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/Chooeychloe/auto-changelog/compare/v1.2.0...v1.3.0) (2024-12-06)
+
+
+### Features
+
+* last message ([c5bd580](https://github.com/Chooeychloe/auto-changelog/commit/c5bd58038ca280c132e04ad823a8b697c3c16178))
+
 ## [1.2.0](https://github.com/Chooeychloe/auto-changelog/compare/v1.1.0...v1.2.0) (2024-12-03)
 
 
