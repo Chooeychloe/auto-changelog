@@ -1,16 +1,10 @@
-# all files with log extension name
+#all files with log extension name
 *.log
-#folder named temp
+
+#all folders with temp name
 temp/
-lib/**/index.js
+folder/index.js
 
-lib?.log
 
-#additional comment
-additionala
-afafa
-filesgaga
-
-afafa
-ga
-gaaga
+node_modules
+**/name
