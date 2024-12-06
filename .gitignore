@@ -1,0 +1,7 @@
+# all files with log extension name
+*.log
+#folder named temp
+temp/
+lib/**/index.js
+
+lib?.log
