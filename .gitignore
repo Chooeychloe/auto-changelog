@@ -1,10 +1,12 @@
-#all files with log extension name
-*.log
+#this is our ignore file
 
-#all folders with temp name
-temp/
+#all file named index
+index
+#all folder named node_modules
+node_modules/
+
 folder/index.js
 
 
-node_modules
-**/name
+inde[!abc].js
+
