@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.2](https://github.com/Chooeychloe/auto-changelog/compare/v1.6.1...v1.6.2) (2024-12-07)
+
+
+### Bug Fixes
+
+* delete a function to optimize the app ([040ac6e](https://github.com/Chooeychloe/auto-changelog/commit/040ac6e261bf6e12d11cf6297d8c1546a2db6dca))
+
 ### [1.6.1](https://github.com/Chooeychloe/auto-changelog/compare/v1.6.0...v1.6.1) (2024-12-07)
 
 ## [1.6.0](https://github.com/Chooeychloe/auto-changelog/compare/v1.5.1...v1.6.0) (2024-12-07)
