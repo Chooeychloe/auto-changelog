@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/Chooeychloe/auto-changelog/compare/v1.7.1...v1.8.0) (2024-12-07)
+
+
+### Features
+
+* add an old feature at the dashboard-print function ([f41a63a](https://github.com/Chooeychloe/auto-changelog/commit/f41a63af96a1e6020ecefdddacb8a8b7fddb1843))
+
 ### [1.7.1](https://github.com/Chooeychloe/auto-changelog/compare/v1.7.0...v1.7.1) (2024-12-07)
 
 
