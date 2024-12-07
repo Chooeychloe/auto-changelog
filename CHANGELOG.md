@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.5.1](https://github.com/Chooeychloe/auto-changelog/compare/v1.5.0...v1.5.1) (2024-12-07)
+
+
+### Bug Fixes
+
+* delete another functionality to boost performance ([18a63f9](https://github.com/Chooeychloe/auto-changelog/commit/18a63f963b5d592a100b56913a1c14e854f97c06))
+
 ## [1.5.0](https://github.com/Chooeychloe/auto-changelog/compare/v1.4.1...v1.5.0) (2024-12-06)
 
 
