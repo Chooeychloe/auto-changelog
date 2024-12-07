@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.7.1](https://github.com/Chooeychloe/auto-changelog/compare/v1.7.0...v1.7.1) (2024-12-07)
+
+
+### Bug Fixes
+
+* optimizing the app by removing a feature in the dashboard ([9687997](https://github.com/Chooeychloe/auto-changelog/commit/9687997232c47acadd060bc5fb606fd0bc42416f))
+
 ## [1.7.0](https://github.com/Chooeychloe/auto-changelog/compare/v1.6.2...v1.7.0) (2024-12-07)
 
 
